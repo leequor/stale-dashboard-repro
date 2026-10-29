@@ -1,0 +1,8 @@
+{
+  "name": "stale-dashboard-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
